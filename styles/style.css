@@ -71,7 +71,12 @@ hr.solid {
 .col1 {
     text-align: center;
 }
-.col2
+
+.cvlink{
+    text-align: center;
+    color: whitesmoke;
+    font-weight: 700px;
+}
 
 
 @media only screen and (max-width: 768px) {
