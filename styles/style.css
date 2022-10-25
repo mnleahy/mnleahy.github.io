@@ -80,6 +80,11 @@ hr.solid {
     text-shadow: 2px 2px #666;
 }
 
+.cvlink2{
+    color: whitesmoke;
+    text-decoration: none;
+}
+
 
 @media only screen and (max-width: 768px) {
     h1, h2, h3, h4, h5, h6 {
