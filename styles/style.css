@@ -73,9 +73,11 @@ hr.solid {
 }
 
 .cvlink{
-    text-align: center;
     color: whitesmoke;
-    font-weight: 700px;
+    font-weight: 700;
+    text-decoration: none;
+    font-size: 24px;
+    text-shadow: 2px 2px #666;
 }
 
 
